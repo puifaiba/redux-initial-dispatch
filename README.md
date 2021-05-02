@@ -227,3 +227,4 @@ defined, dispatching an action assigns our state to that default value, and then
 sets state as the default.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-initial-dispatch'>Redux Initial Dispatch</a> on Learn.co and start learning to code for free.</p>
+# ArteLepre
